@@ -1,0 +1,27 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 70vw;
+    height: 100vh;
+    margin: auto;
+    background-color: aqua;
+}
+.row{
+    height: 20vh;
+    border: 2px solid red;
+    margin: 6.667vh 0vh;
+}
+.row{
+    display: flex;
+}
+.ll{
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
